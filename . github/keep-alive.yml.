@@ -12,4 +12,4 @@ jobs:
     steps:
       - name: Send request to Streamlit app
         run: |
-          curl -I https://hzgnvkyehshaezxenkqtjj.streamlit.app/
+          curl -I https://knn9w573qldb86yakws2td.streamlit.app/
